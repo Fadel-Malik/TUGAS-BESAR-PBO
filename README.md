@@ -5,7 +5,7 @@ Mancing Mania
 Permainan video yang bertema memancing
 
 # Cara menjalankan aplikasi (cara bermain) :
-Player melempar kail ke dalam air, lalu memancing ikan yang ada di dalam air
+Player melempar kail ke dalam air, lalu memancing ikan yang ada di dalam air, mengendalikan kail dengan w/a/s/d atau cursor
 
 # Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi :
 pygame
