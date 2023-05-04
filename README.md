@@ -1,5 +1,5 @@
 # Judul Proyek :
-Endless Running
+Endless Runner
 
 # Deskripsi Proyek :
 Permainan video yang bertema berlari tanpa habis
