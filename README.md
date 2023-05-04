@@ -1,17 +1,17 @@
 # Judul Proyek :
-Mancing Mania
+Endless Running
 
 # Deskripsi Proyek :
-Permainan video yang bertema memancing
+Permainan video yang bertema berlari tanpa habis
 
 # Cara menjalankan aplikasi (cara bermain) :
-Player melempar kail ke dalam air, lalu memancing ikan yang ada di dalam air, mengendalikan kail dengan w/a/s/d atau cursor
+Player menekan spasi untuk menghindari rintangan yang menghadang
 
 # Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi :
 pygame
 
 # UML Class diagram proyek :
-https://drive.google.com/file/d/1weyt8__HfTCbDnULuxPZ7xR4gu4rs_vx/view?usp=sharing
+
 
 # Kontributor Pengembangan Aplikasi :
 - Fadel Malik	121140165
