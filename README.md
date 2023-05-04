@@ -11,7 +11,7 @@ Player menekan spasi untuk menghindari rintangan yang menghadang
 pygame
 
 # UML Class diagram proyek :
-
+https://drive.google.com/file/d/1aJMYt4mUJ8EvNPut-WT3R91Z3N8jv-4o/view?usp=sharing
 
 # Kontributor Pengembangan Aplikasi :
 - Fadel Malik	121140165
