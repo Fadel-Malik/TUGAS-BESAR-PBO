@@ -11,7 +11,7 @@ Player melempar kail ke dalam air, lalu memancing ikan yang ada di dalam air, me
 pygame
 
 # UML Class diagram proyek :
-
+https://drive.google.com/file/d/1weyt8__HfTCbDnULuxPZ7xR4gu4rs_vx/view?usp=sharing
 
 # Kontributor Pengembangan Aplikasi :
 - Fadel Malik	121140165
