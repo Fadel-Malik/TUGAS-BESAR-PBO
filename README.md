@@ -1,8 +1,8 @@
 # Judul Proyek :
-Endless Runner
+Cat Runner
 
 # Deskripsi Proyek :
-Permainan video yang bertema berlari tanpa habis
+Permainan video yang bertemakan kucing yang berlari tanpa habis
 
 # Cara menjalankan aplikasi (cara bermain) :
 Player menekan spasi untuk menghindari rintangan yang menghadang
