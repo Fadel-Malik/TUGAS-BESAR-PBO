@@ -15,7 +15,7 @@
 -pygame
 
 # UML Class diagram proyek :
-https://drive.google.com/file/d/1aJMYt4mUJ8EvNPut-WT3R91Z3N8jv-4o/view?usp=sharing
+https://drive.google.com/file/d/1eMbdsoWmP2E3gsgbhfHOIR8bwxCK_EB1/view?usp=sharing
 
 # Kontributor Pengembangan Aplikasi :
 - Fadel Malik	121140165
