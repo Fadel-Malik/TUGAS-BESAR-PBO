@@ -6,7 +6,9 @@
 
 # Cara menjalankan aplikasi (cara bermain) :
 -Player menekan spasi untuk melompati rintangan
+
 -Tombol (A) untuk bergerak ke arah kiri
+
 -Tombol (D) untuk bergerak ke arah kanan
 
 # Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi :
