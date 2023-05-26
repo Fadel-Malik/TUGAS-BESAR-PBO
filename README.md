@@ -1,16 +1,16 @@
 # Judul Proyek :
-The Running Cat
+-The Running Cat
 
 # Deskripsi Proyek :
-Permainan video yang bertemakan kucing yang berlari sambil menghindari rintangan yang menghadang
+-Permainan video yang bertemakan kucing yang berlari sambil menghindari rintangan yang menghadang
 
 # Cara menjalankan aplikasi (cara bermain) :
-Player menekan spasi untuk melompati rintangan
-tombol (A) untuk bergerak ke arah kiri
-tombol (D) untuk bergerak ke arah kanan
+-Player menekan spasi untuk melompati rintangan
+-Tombol (A) untuk bergerak ke arah kiri
+-Tombol (D) untuk bergerak ke arah kanan
 
 # Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi :
-pygame
+-pygame
 
 # UML Class diagram proyek :
 https://drive.google.com/file/d/1aJMYt4mUJ8EvNPut-WT3R91Z3N8jv-4o/view?usp=sharing
