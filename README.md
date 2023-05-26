@@ -1,11 +1,13 @@
 # Judul Proyek :
-Cat Runner
+The Running Cat
 
 # Deskripsi Proyek :
-Permainan video yang bertemakan kucing yang berlari tanpa habis
+Permainan video yang bertemakan kucing yang berlari sambil menghindari rintangan yang menghadang
 
 # Cara menjalankan aplikasi (cara bermain) :
-Player menekan spasi untuk menghindari rintangan yang menghadang
+Player menekan spasi untuk melompati rintangan
+tombol (A) untuk bergerak ke arah kiri
+tombol (D) untuk bergerak ke arah kanan
 
 # Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi :
 pygame
